@@ -16,7 +16,7 @@
 - 🧠 Estudando e praticando: **Next.js, Tailwind CSS, AWS, Docker e JavaScript**
 - 🧩 Apaixonada por temas como **acessibilidade digital, diversidade e inclusão social**
 - ☁️ Experiência prévia com **Salesforce (Apex, Lightning)**
-- 🐘 Banco de dados: PostgreSQL
+- 🐘 Banco de dados: PostgreSQL e Oracle
 
 ---
 
@@ -31,19 +31,20 @@
 **Banco de dados:**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
 </p>
 
 **Frontend (em estudo):**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="40" alt="Tailwind CSS"/>
 </p>
 
 **DevOps / Cloud:**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS"/>
 </p>
 
 **CRM/Low Code:**
