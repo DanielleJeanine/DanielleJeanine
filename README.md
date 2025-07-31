@@ -57,7 +57,7 @@
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](www.linkedin.com/in/danielle-jeanine-da-silva)
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielle-jeanine-da-silva)
 - 📧 Email: danielle.jeanine92@gmail.com
 
 ---
